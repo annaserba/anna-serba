@@ -40,10 +40,44 @@ sections:
         media_width: fifty
       - title: Tenkites
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Project: Web application for restaurant visitors. Publish, display
+          menu. Filtration of dishes by allergens and nutrients.
+
+
+          Duties:
+
+
+          *   adaptive layout of web pages by layout using BEM methodology
+          (flexbox, html5, css3, less, sass);
+
+
+          *   cross-browser layout (including ie11);
+
+
+          *   development of javascript es5 / es6 modules;
+
+
+          *   development of an application (widget) embedded into a third-party
+          website, using ajax, without using an iframe;
+
+
+          *   development of js-logic of the site, using the knockout.js
+          library;
+
+
+          *   development of functionality for publishing on facebook, twiter;
+
+
+          *   optimization of the ui-interface (creation of sprites to optimize
+          page loading speed, etc.);
+
+
+          *   integration and configuration of third-party libraries;
+
+
+          *   writing tests and autotests.
+
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
