@@ -45,11 +45,6 @@ sections:
         image: >-
           images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
         subtitle: 'less, sass'
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-        title: Git
-        title_align: center
       - title_align: center
         content_align: left
         actions: []
@@ -64,6 +59,11 @@ sections:
         title: Javascript frameworks
         image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
         subtitle: 'React, AngularJS, Vue.js'
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+        title: Git
+        title_align: center
       - title: CSS3
         title_align: center
         content_align: center
