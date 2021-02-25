@@ -45,7 +45,7 @@
             },
             {
                 "url": "https://www.linkedin.com/in/annserba/",
-                "style": "secondary",
+                "style": "primary",
                 "icon": "linkedin",
                 "icon_position": "center",
                 "has_icon": true
