@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: Anna Serba
-    subtitle: Front-end developer
+    subtitle: Front-end web developer
     content: >-
       ## Lorem ipsum
 
