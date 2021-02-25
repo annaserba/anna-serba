@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Html
+        title: Html5
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
