@@ -27,7 +27,7 @@ sections:
         media_width: fifty
     title: My jobs
   - type: grid_section
-    title: Our Officess
+    title: My projects
     grid_items:
       - title: Some City
         content: >-
