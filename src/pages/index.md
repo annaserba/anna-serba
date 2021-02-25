@@ -7,7 +7,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: lorem-ipsum
+          - label: Resume
             url: '#'
             style: secondary
             has_icon: true
