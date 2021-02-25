@@ -66,7 +66,7 @@ sections:
         title_align: center
       - title: Javascript
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
