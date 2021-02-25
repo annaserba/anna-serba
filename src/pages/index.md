@@ -11,6 +11,38 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
+    title: Image Grid
+    subtitle: Grid Section Example
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Contentful logo
+        image_align: center
+      - image: images/logo-2.svg
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Gatsby logo
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: Sanity logo
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: DatoCMS logo
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Next.js logo
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Gridsome logo
+        image_align: center
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+  - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
@@ -80,38 +112,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
