@@ -6,6 +6,16 @@ sections:
       - image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     feature_padding_vert: small
     background_color: primary
     title: Anna Serba
