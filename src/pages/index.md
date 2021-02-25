@@ -7,7 +7,7 @@ sections:
       - label: lorem-ipsum
         url: 'https://www.linkedin.com/in/annserba/'
         style: primary
-        has_icon: false
+        has_icon: true
         icon: linkedin
         icon_position: right
         new_window: false
