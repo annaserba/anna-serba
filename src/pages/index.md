@@ -48,7 +48,7 @@ sections:
         title: Getsby
         content_align: center
         title_align: center
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
