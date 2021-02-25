@@ -1,5 +1,5 @@
 ---
-title: General
+title: React
 sections:
   - type: hero_section
     title: General
