@@ -64,12 +64,6 @@ sections:
         image_align: center
         title: Git
         title_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-        title: Getsby
-        content_align: center
-        title_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
