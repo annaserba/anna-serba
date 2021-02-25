@@ -83,6 +83,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     has_border: true
+    padding_bottom: medium
   - type: blog_feed_section
     title: Blog Feed
     actions:
