@@ -5,7 +5,7 @@ sections:
     subtitle: Front-end web developer
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.linkedin.com/in/annserba/'
         style: link
         has_icon: false
         icon: linkedin
