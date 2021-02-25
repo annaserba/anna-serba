@@ -6,7 +6,7 @@ sections:
     actions:
       - label: Recume
         url: 'https://www.linkedin.com/in/annserba/'
-        style: primary
+        style: secondary
         has_icon: true
         icon: linkedin
         icon_position: right
