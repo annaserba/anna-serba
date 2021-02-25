@@ -144,7 +144,6 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Contact me
     actions:
       - label: Contact me
         url: /pricing
