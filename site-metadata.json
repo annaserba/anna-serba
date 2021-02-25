@@ -52,7 +52,7 @@
         "primary_nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/",
                 "style": "link"
             },
             {
