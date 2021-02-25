@@ -48,7 +48,7 @@ sections:
         content_align: center
         actions: []
         actions_align: left
-        actions_width: auto
+        actions_width: full-width
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
