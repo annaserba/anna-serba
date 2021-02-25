@@ -64,18 +64,6 @@ sections:
         image_align: center
         title: Git
         title_align: center
-      - title: CSS3
-        title_align: center
-        content_align: center
-        actions: []
-        actions_align: left
-        actions_width: full-width
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
