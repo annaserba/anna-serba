@@ -1,5 +1,5 @@
 ---
-title: J
+title: Javascript
 sections:
   - type: hero_section
     title: JAMstack
