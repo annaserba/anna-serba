@@ -25,17 +25,6 @@ sections:
     title: Tehnologes
     align: center
     grid_items:
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-        title: Git
-        title_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-        title: Getsby
-        content_align: center
-        title_align: center
       - title_align: center
         content_align: left
         actions: []
@@ -48,6 +37,17 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Javascript
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+        title: Git
+        title_align: center
+      - image: images/logo-3.svg
+        image_alt: Gatsby logo
+        image_align: center
+        title: Getsby
+        content_align: center
+        title_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
