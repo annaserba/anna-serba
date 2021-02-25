@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: features_section
     features:
-      - image: images/brandon-guidelines.png
+      - image: images/Anna Serba.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
