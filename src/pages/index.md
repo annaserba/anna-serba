@@ -57,7 +57,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: 'es5, es6'
-        image: images/best-broccoli.png
+        image: images/smiling-kale.png
       - title_align: center
         content_align: left
         actions: []
