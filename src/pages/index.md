@@ -46,7 +46,7 @@ sections:
           images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
         subtitle: 'Html5, CSS3(less, sass), Javascript es5, es6'
       - title: Javascript
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
