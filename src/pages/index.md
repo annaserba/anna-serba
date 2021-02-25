@@ -63,7 +63,7 @@ sections:
         type: grid_item
         title: Javascript frameworks
         image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
-        subtitle: 'React.js, AngularJs, Vue.js'
+        subtitle: 'React, AngularJs, Vue.js'
       - title: CSS3
         title_align: center
         content_align: center
