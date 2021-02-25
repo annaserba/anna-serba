@@ -64,7 +64,7 @@ sections:
         image_align: center
         title: Git
         title_align: center
-      - title: lorem-ipsum
+      - title: Javascript
         subtitle: lorem-ipsum
         title_align: left
         content: >-
