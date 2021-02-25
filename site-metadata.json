@@ -47,7 +47,8 @@
                 "url": "https://www.linkedin.com/in/annserba/",
                 "style": "primary",
                 "icon": "github",
-                "icon_position": "center"
+                "icon_position": "center",
+                "has_icon": true
             }
         ],
         "has_anncmnt": true,
