@@ -13,7 +13,7 @@ sections:
             has_icon: true
             icon: linkedin
             icon_position: left
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
     feature_padding_vert: small
