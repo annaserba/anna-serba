@@ -17,6 +17,28 @@ sections:
             no_follow: false
             type: action
         align: center
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
     feature_padding_vert: small
     background_color: primary
     title: Anna Serba
