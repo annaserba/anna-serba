@@ -39,7 +39,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Tenkites
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           Project: Web application for restaurant visitors. Publish, display
           menu. Filtration of dishes by allergens and nutrients.
