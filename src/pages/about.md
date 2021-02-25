@@ -32,6 +32,9 @@ sections:
 
 
           *   development of CMS components;
+
+
+          *   adding components of the DevExpress framework.
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
