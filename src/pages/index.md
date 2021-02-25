@@ -124,7 +124,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Blog Feed
     actions:
       - label: View All
         url: /blog
