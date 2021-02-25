@@ -36,7 +36,8 @@
                 "style": "primary",
                 "icon": "linkedin",
                 "icon_position": "center",
-                "has_icon": true
+                "has_icon": true,
+                "new_window": true
             }
         ],
         "has_anncmnt": false,
