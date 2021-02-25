@@ -97,7 +97,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: My tasks
+  - title: Test tasks
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
