@@ -45,7 +45,8 @@
             },
             {
                 "url": "/pricing",
-                "style": "primary"
+                "style": "primary",
+                "icon": "linkedin"
             }
         ],
         "has_anncmnt": true,
