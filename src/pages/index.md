@@ -146,7 +146,7 @@ sections:
   - type: cta_section
     title: Contact me
     actions:
-      - label: Button
+      - label: Contact me
         url: /pricing
         style: primary
     actions_position: bottom
