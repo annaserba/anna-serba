@@ -45,20 +45,6 @@ sections:
         image: >-
           images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
         subtitle: 'Html5, CSS3(less, sass), Javascript es5, es6'
-      - title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        type: grid_item
-        title: Javascript frameworks
-        image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
-        subtitle: 'React, AngularJS, Vue.js'
       - title: Javascript
         title_align: left
         content_align: center
@@ -73,6 +59,20 @@ sections:
         type: grid_item
         subtitle: 'es5, es6'
         image: images/famous-artichoke.png
+      - title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        title: Javascript frameworks
+        image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
+        subtitle: 'React, AngularJS, Vue.js'
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
