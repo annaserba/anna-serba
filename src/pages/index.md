@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
+  - title: Anna Serba
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
