@@ -37,7 +37,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-    title: My d
+    title: My jobs
   - type: grid_section
     title: Our Officess
     grid_items:
