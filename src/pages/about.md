@@ -9,10 +9,25 @@ sections:
     features:
       - title: Pluritech
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Projects: Creation of CMS components. Creation of sites for customers
+          using CMS.
+
+          Duties:
+
+          \- adaptive layout of web pages by layout using BEM methodology
+          (flexbox, html5, css3, less, sass);
+
+          \- cross-browser layout (including ie11);
+
+          \- development of javascript es5 / es6 modules;
+
+          \- application development in angularJS;
+
+          \- work with bpmn-diagram using canvas technology;
+
+          \- development of CMS components;
+
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
