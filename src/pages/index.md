@@ -41,7 +41,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Html5 CSS3 Javasc
+        title: Html5 CSS3 Javascript
         image: >-
           images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
       - title_align: center
