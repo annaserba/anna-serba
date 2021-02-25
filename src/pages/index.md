@@ -9,7 +9,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: primary
+            style: secondary
             has_icon: true
             icon: linkedin
             icon_position: right
