@@ -9,6 +9,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     title: Anna Serba
+    subtitle: Front-end developer blog
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
