@@ -61,7 +61,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        title: Javascript
+        title: Javascript frameworks
         image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
       - title: CSS3
         title_align: center
