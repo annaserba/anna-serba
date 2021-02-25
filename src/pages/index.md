@@ -70,7 +70,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Javascript frameworks
-        image: images/1_PNlbgb05IwSxOhAz0aA2rg2.png
+        image: images/frameworks.png
         subtitle: 'React, AngularJS, Vue.js'
       - image: images/logo-8.svg
         image_alt: Git logo
