@@ -52,7 +52,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    enable_cards: true
+    enable_cards: false
   - type: blog_feed_section
     title: Blog Feed
     actions:
