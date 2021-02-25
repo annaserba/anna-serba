@@ -59,11 +59,6 @@ sections:
         title: Javascript frameworks
         image: images/1_PNlbgb05IwSxOhAz0aA2rg.png
         subtitle: 'React, AngularJS, Vue.js'
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-        title: Git
-        title_align: center
       - title: Javascript
         title_align: left
         content_align: center
@@ -78,6 +73,11 @@ sections:
         type: grid_item
         subtitle: 'es5, es6'
         image: images/famous-artichoke.png
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+        title: Git
+        title_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
