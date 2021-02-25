@@ -40,6 +40,13 @@ sections:
         is_required: true
         type: form_field
         default_value: example@gmail.com
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Contact with me
     align_vert: top
     padding_top: medium
