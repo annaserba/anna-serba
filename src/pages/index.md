@@ -37,7 +37,7 @@ sections:
         content_align: center
         title_align: center
       - subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
