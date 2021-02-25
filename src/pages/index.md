@@ -81,7 +81,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    enable_cards: false
+    enable_cards: true
     has_border: true
     padding_bottom: medium
   - type: blog_feed_section
