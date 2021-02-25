@@ -4,7 +4,7 @@ sections:
   - title: Anna Serba
     subtitle: Front-end web developer
     actions:
-      - label: lorem-ipsum
+      - label: Recume
         url: 'https://www.linkedin.com/in/annserba/'
         style: primary
         has_icon: true
