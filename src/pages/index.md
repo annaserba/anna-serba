@@ -77,7 +77,7 @@ sections:
         image_align: center
         title: Git
         title_align: center
-        subtitle: 'github, Git'
+        subtitle: 'github, gitlab, '
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
