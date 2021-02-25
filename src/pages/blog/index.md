@@ -19,6 +19,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    align: center
   - type: form_section
     title: Subscribe to this blog
     title_align: center
