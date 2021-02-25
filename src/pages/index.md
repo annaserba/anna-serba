@@ -4,7 +4,6 @@ sections:
   - type: features_section
     features:
       - title: Front-end developer blog
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
