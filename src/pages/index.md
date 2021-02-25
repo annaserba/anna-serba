@@ -8,7 +8,7 @@ sections:
         media_width: thirty-three
         actions:
           - label: Resume
-            url: '#'
+            url: '#https://www.linkedin.com/in/annserba/'
             style: secondary
             has_icon: true
             icon: linkedin
