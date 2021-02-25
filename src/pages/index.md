@@ -72,7 +72,7 @@ sections:
         title: Javascript frameworks
         image: images/scientific-yam.png
         subtitle: 'React, AngularJS, Vue.js'
-      - image: images/logo-8.svg
+      - image: images/git.png
         image_alt: Git logo
         image_align: center
         title: Git
