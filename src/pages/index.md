@@ -16,6 +16,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
+        align: center
     feature_padding_vert: small
     background_color: primary
     title: Anna Serba
