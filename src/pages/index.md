@@ -12,7 +12,6 @@ sections:
     subtitle: Front-end developer blog
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
