@@ -41,7 +41,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Adaptive and cross-browser layout
+        title: Adaptive and cross-browser
         image: images/1_lJ32Bl-lHWmNMUSiSq17gQ1.png
         subtitle: 'Html5, CSS3(less, sass)'
       - title: Javascript
