@@ -8,7 +8,6 @@ sections:
   - type: features_section
     features:
       - title: Pluritech
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           Projects: Creation of CMS components. Creation of sites for customers
           using CMS.
