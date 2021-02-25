@@ -124,7 +124,6 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: Blog Feed
-    subtitle: Blog Feed
     actions:
       - label: View All
         url: /blog
