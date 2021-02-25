@@ -2,21 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    features:
-      - image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-        actions:
-          - label: Resume
-            url: 'https://www.linkedin.com/in/annserba/'
-            style: secondary
-            has_icon: true
-            icon: linkedin
-            icon_position: right
-            new_window: true
-            no_follow: false
-            type: action
-        align: center
+    features: []
     feature_padding_vert: small
     background_color: primary
     title: Anna Serba
