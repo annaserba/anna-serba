@@ -84,7 +84,7 @@ sections:
     enable_cards: false
     has_border: true
     padding_bottom: medium
-    padding_top: medium
+    padding_top: none
   - type: blog_feed_section
     title: Blog Feed
     actions:
