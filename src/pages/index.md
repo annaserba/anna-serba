@@ -42,7 +42,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Javascript
-        image: images/logo_css_html_js.png
+        image: images/456-4561754_html5-js-css3-logo-png-transparent-png.png
       - title: CSS3
         title_align: center
         content_align: left
