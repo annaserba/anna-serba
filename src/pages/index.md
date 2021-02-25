@@ -61,7 +61,6 @@ sections:
         type: grid_item
         title: Html5
       - title: CSS3
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
