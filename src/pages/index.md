@@ -60,7 +60,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Html5
-      - title: lorem-ipsum
+      - title: CSS3
         subtitle: lorem-ipsum
         title_align: left
         content: >-
