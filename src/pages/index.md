@@ -38,6 +38,20 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        title: Html5
+        image: >-
+          images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
+      - title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
         image_align: center
         image_has_padding: false
         type: grid_item
@@ -54,20 +68,6 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-      - title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        title: Html5
-        image: >-
-          images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
