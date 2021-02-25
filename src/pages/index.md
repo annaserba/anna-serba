@@ -27,7 +27,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - type: grid_section
-    title: Tehnologes
+    title: Technologies
     align: center
     grid_items:
       - title_align: center
