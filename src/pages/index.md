@@ -37,8 +37,6 @@ sections:
         content_align: center
         title_align: center
       - title_align: center
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
