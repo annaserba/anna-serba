@@ -1,12 +1,6 @@
 ---
 title: Home
 sections:
-  - type: features_section
-    features: []
-    feature_padding_vert: small
-    background_color: primary
-    title: Anna Serba
-    subtitle: Front-end developer blog
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
