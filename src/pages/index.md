@@ -43,7 +43,7 @@ sections:
         type: grid_item
         title: Adaptive and cross-browser layout
         image: images/1_lJ32Bl-lHWmNMUSiSq17gQ.png
-        subtitle: 'Html5, CSS3(less, sass), Javascript es5, es6'
+        subtitle: 'Html5, CSS3(less, sass)'
       - title: Javascript
         title_align: center
         content_align: center
