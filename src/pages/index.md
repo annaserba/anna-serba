@@ -55,6 +55,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/CSS3_logo_and_wordmark.svg.png
       - title_align: center
         content_align: left
         actions: []
