@@ -11,7 +11,7 @@ sections:
     title: Anna Serba
     subtitle: Front-end developer blog
   - type: grid_section
-    title: Image Grid
+    title: Tehnologes
     align: center
     grid_items:
       - image: images/logo-1.svg
