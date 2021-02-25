@@ -42,7 +42,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Javascript
-        image: images/7139169_preview.png
+        image: images/Без названия.png
       - title: CSS3
         title_align: center
         content_align: left
