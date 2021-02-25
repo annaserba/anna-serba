@@ -37,6 +37,18 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Javascript
+      - title: CSS3
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title_align: center
         content_align: left
         actions: []
@@ -60,18 +72,6 @@ sections:
         title: Getsby
         content_align: center
         title_align: center
-      - title: CSS3
-        title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
