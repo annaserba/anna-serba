@@ -10,6 +10,7 @@ sections:
         title: Front-end developer blog
     feature_padding_vert: small
     background_color: primary
+    title: Front-end developer blog
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
