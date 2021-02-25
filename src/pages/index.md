@@ -25,8 +25,7 @@ sections:
     title: Tehnologes
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
