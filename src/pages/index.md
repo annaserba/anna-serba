@@ -42,8 +42,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Adaptive and cross-browser layout
-        image: >-
-          images/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8074f1c0.561934001537478272479.png
+        image: images/1_lJ32Bl-lHWmNMUSiSq17gQ.png
         subtitle: 'Html5, CSS3(less, sass), Javascript es5, es6'
       - title: Javascript
         title_align: center
