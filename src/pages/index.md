@@ -12,7 +12,7 @@ sections:
             style: secondary
             has_icon: true
             icon: linkedin
-            icon_position: left
+            icon_position: right
             new_window: true
             no_follow: false
             type: action
