@@ -88,9 +88,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:description'
-      value: This is the about us page
-      keyName: property
     - name: 'og:image'
       value: images/about-1.jpg
       keyName: property
