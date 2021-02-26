@@ -46,9 +46,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Anna Serba - Front-end developer blog
-      keyName: property
     - name: 'og:image'
       value: /images/famous-artichoke.png
       keyName: property
