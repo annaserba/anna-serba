@@ -56,8 +56,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:description'
-      value: This is the blog page
     - name: 'twitter:image'
       value: /images/famous-artichoke.png
       relativeUrl: true
