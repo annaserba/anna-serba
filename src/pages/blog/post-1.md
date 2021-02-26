@@ -10,7 +10,7 @@ excerpt: >-
 thumb_image: images/solid-design-principle-1.jpg
 thumb_image_alt: SOLID
 image: images/solid-design-principle-1.jpg
-image_alt: Post 1 placeholder image
+image_alt: SOLID
 image_position: right
 seo:
   title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
