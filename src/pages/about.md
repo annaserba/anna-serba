@@ -83,7 +83,7 @@ sections:
     title: My jobs
 seo:
   title: About me
-  description: My profe
+  description: Page about my professional activity
   extra:
     - name: 'og:type'
       value: website
