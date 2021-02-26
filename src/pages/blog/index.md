@@ -51,7 +51,7 @@ seo:
       value: Anna Serba - Front-end developer blog
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/famous-artichoke.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
