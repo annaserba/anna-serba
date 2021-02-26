@@ -1,5 +1,5 @@
 ---
-title: Anna Serba - personal site
+title: Anna Serba - resume
 sections:
   - title: Anna Serba
     subtitle: Front-end web developer
