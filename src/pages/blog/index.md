@@ -48,7 +48,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Anna Serba - Front-end developer blog
       keyName: property
     - name: 'og:description'
       value: This is the blog page
