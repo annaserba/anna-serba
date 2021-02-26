@@ -6,7 +6,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: SOLID
 image_alt: SOLID
-image_position: top
+image_position: right
 seo:
   title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
   description: >-
