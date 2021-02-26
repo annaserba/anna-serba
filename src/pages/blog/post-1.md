@@ -42,3 +42,11 @@ seo:
 template: post
 ---
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin.
+
+SOLID stands for:
+
+S - Single-responsiblity Principle
+O - Open-closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
