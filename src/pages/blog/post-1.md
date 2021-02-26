@@ -1,8 +1,5 @@
 ---
 title: Dependency Injection
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
