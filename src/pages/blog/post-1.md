@@ -1,5 +1,5 @@
 ---
-title: 'DIP: The Dependency-Inversion Principle'
+title: 'SOLID: The First 5 Principles of Object Oriented Design'
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
