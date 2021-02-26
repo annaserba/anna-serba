@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/solid-design-principle-1.jpg
       relativeUrl: true
   description: >-
     SOLID is an acronym for the first five object-oriented design (OOD)
