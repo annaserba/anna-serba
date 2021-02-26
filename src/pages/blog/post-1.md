@@ -35,7 +35,9 @@ seo:
     - name: 'twitter:title'
       value: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        SOLID is an acronym for the first five object-oriented design (OOD)
+        principles by Robert C. Martin
     - name: 'twitter:image'
       value: /images/solid-design-principle-1.jpg
       relativeUrl: true
