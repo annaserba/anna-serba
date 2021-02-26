@@ -4,9 +4,6 @@ date: '2021-02-26'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/solid-design-principle-1.jpg
 thumb_image_alt: SOLID
 image: images/solid-design-principle-1.jpg
