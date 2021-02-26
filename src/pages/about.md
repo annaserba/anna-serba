@@ -94,8 +94,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: About
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
