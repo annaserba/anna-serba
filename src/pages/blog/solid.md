@@ -9,7 +9,7 @@ thumb_image_alt: SOLID
 image_alt: SOLID
 image_position: top
 seo:
-  title: ''
+  title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
   description: ''
   robots: []
   extra:
