@@ -107,7 +107,7 @@ sections:
     background_color: none
 seo:
   title: Anna Serba
-  description: The preview of the DIY theme
+  description: Anna Serba - Resume
   extra:
     - name: 'og:type'
       value: website
