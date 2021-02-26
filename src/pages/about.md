@@ -89,7 +89,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: /images/famous-artichoke.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
