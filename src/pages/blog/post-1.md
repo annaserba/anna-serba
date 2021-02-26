@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
       keyName: property
     - name: 'og:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
