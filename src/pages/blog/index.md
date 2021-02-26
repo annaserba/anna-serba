@@ -55,5 +55,6 @@ seo:
     - name: 'twitter:image'
       value: /images/famous-artichoke.png
       relativeUrl: true
+  description: Front-end developer blog
 template: advanced
 ---
