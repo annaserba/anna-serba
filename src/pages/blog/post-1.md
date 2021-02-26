@@ -7,7 +7,7 @@ categories:
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/classic/post-1.png
+thumb_image: images/solid-design-principle-1.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/solid-design-principle-1.jpg
 image_alt: Post 1 placeholder image
