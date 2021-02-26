@@ -21,16 +21,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "url": "https://www.linkedin.com/in/annserba/",
-                "style": "primary",
-                "icon": "linkedin",
-                "icon_position": "center",
-                "has_icon": true,
-                "new_window": true
-            }
-        ],
+        "secondary_nav_links": [],
         "has_anncmnt": false,
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
