@@ -32,6 +32,12 @@ seo:
         principles by Robert C. Martin
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        SOLID is an acronym for the first five object-oriented design (OOD)
+        principles by Robert C. Martin
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_image: images/scientific-chestnut.jpg
