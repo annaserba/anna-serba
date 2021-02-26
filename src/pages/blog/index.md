@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/famous-artichoke.png
       relativeUrl: true
 template: advanced
 ---
