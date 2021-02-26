@@ -112,9 +112,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:description'
-      value: The preview of the DIY theme
-      keyName: property
     - name: 'og:image'
       value: /images/famous-artichoke.png
       keyName: property
