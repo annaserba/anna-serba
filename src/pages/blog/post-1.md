@@ -13,7 +13,7 @@ image: images/solid-design-principle-1.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
-  title: S.O.L.I.D
+  title: 'S.O.L.I.D: '
   description: The First 5 Principles of Object Oriented Design
   extra:
     - name: 'og:type'
