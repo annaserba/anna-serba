@@ -13,7 +13,7 @@ image: images/solid-design-principle-1.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: 'S.O.L.I.D: '
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
