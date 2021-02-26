@@ -1,5 +1,5 @@
 ---
-title: Dependency Injection
+title: 'DIP: The Dependency-Inversion Principle'
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
