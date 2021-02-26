@@ -16,6 +16,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: images/scientific-chestnut.jpg
+image: images/scientific-chestnut.jpg
 ---
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin.
 
