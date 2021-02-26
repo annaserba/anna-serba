@@ -9,7 +9,9 @@ image_alt: SOLID
 image_position: top
 seo:
   title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
-  description: ''
+  description: >-
+    SOLID is an acronym for the first five object-oriented design (OOD)
+    principles by Robert C. Martin
   robots: []
   extra:
     - name: 'og:image'
