@@ -5,7 +5,7 @@ date: '2021-02-26'
 categories: []
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: SOLID
 image_alt: lorem-ipsum
 image_position: top
 seo:
