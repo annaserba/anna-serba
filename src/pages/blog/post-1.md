@@ -1,5 +1,5 @@
 ---
-title: 'SOLID: The First 5 Principles of Object Oriented Design'
+title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
