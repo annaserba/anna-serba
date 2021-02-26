@@ -1,6 +1,5 @@
 ---
 title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
-subtitle: lorem-ipsum
 date: '2021-02-26'
 categories: []
 tags: []
