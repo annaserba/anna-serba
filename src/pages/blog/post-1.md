@@ -47,9 +47,11 @@ SOLID stands for:
 
 *   S - Single-responsiblity Principle
 
-A class should have one and only one reason to change, meaning that a class should have only one job.
+> A class should have one and only one reason to change, meaning that a class should have only one job
 
 *   O - Open-closed Principle
+
+> Objects or entities should be open for extension but closed for modification
 
 *   L - Liskov Substitution Principle
 
