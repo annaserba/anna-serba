@@ -107,7 +107,7 @@ sections:
     background_color: none
 seo:
   title: Resume - Anna Serba
-  description: Front-end web developer resume
+  description: Front-end web developer
   extra:
     - name: 'og:type'
       value: website
