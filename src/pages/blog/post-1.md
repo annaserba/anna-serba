@@ -1,5 +1,5 @@
 ---
-title: S.O.L.I.D
+title: Dependency Injection
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
