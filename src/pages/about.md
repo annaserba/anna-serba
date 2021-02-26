@@ -97,7 +97,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/famous-artichoke.png
       relativeUrl: true
 template: advanced
 ---
