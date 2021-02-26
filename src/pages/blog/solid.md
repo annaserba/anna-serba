@@ -38,6 +38,10 @@ seo:
         principles by Robert C. Martin
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_image: images/scientific-chestnut.jpg
