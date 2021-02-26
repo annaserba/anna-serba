@@ -82,7 +82,7 @@ sections:
         media_width: fifty
     title: My jobs
 seo:
-  title: Anna Serba - About me
+  title: About me - Anna Serba
   description: Page about my professional activity
   extra:
     - name: 'og:type'
