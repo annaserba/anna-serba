@@ -43,10 +43,10 @@ template: post
 ---
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin.
 
-SOLID stands for:
+Principles:
 
-*   S - Single-responsiblity Principle. A class should have one and only one reason to change, meaning that a class should have only one job
-*   O - Open-closed Principle. Objects or entities should be open for extension but closed for modification
-*   L - Liskov Substitution Principle
-*   I - Interface Segregation Principle
-*   D - Dependency Inversion Principle. Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+*   S - Single-responsiblity. A class should have one and only one reason to change, meaning that a class should have only one job
+*   O - Open-closed. Objects or entities should be open for extension but closed for modification
+*   L - Liskov Substitution
+*   I - Interface Segregation
+*   D - Dependency Inversion. Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
