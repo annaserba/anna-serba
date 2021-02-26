@@ -50,9 +50,6 @@ seo:
     - name: 'og:title'
       value: Anna Serba - Front-end developer blog
       keyName: property
-    - name: 'og:description'
-      value: This is the blog page
-      keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
       keyName: property
