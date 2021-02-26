@@ -17,6 +17,10 @@ seo:
       value: images/solid-design-principle-1.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/solid-design-principle-1.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_image: images/scientific-chestnut.jpg
