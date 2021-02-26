@@ -43,7 +43,7 @@ sections:
         type: grid_item
         title: Responsive and cross-browser
         image: images/HTML-CSS.png
-        subtitle: 'Html5, CSS3(less, sass)'
+        subtitle: 'Html5, CSS3(less, sass), flexbox, bootstrap 4'
       - title: Javascript
         title_align: center
         content_align: center
