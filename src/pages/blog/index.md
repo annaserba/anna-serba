@@ -41,7 +41,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Blog
+  title: Anna Serba - Front-end developer blog
   description: This is the blog page
   extra:
     - name: 'og:type'
