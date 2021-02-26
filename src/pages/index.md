@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Anna Ser
 sections:
   - title: Anna Serba
     subtitle: Front-end web developer
