@@ -1,5 +1,5 @@
 ---
-title: Anna Serba - Front-end developer Resume
+title: Anna Serba - Front-end developer resume
 sections:
   - title: Anna Serba
     subtitle: Front-end web developer
