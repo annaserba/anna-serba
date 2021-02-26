@@ -37,6 +37,9 @@ seo:
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
+  description: >-
+    SOLID is an acronym for the first five object-oriented design (OOD)
+    principles by Robert C. Martin
 template: post
 ---
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin.
