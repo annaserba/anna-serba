@@ -1,6 +1,6 @@
 ---
 title: 'S.O.L.I.D: The First 5 Principles of Object Oriented Design'
-date: '2020-04-16'
+date: '2020-04-02'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
