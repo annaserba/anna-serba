@@ -82,7 +82,7 @@ sections:
         media_width: fifty
     title: My jobs
 seo:
-  title: About
+  title: About me
   description: This is the about us page
   extra:
     - name: 'og:type'
