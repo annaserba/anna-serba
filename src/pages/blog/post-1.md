@@ -25,7 +25,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/solid-design-principle-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
