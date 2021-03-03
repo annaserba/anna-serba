@@ -5,7 +5,7 @@ sections:
     subtitle: Front-end web developer
     actions:
       - label: Recume
-        url: 'https://www.linkedin.com/in/annserba/'
+        url: 'https://www.linkedin.com/in/annaserba/'
         style: secondary
         has_icon: true
         icon: linkedin
