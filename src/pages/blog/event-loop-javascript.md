@@ -4,6 +4,7 @@ date: '2021-03-10'
 categories: []
 tags:
   - src/data/tags/tag-su3sve3lk.json
+  - src/data/tags/tag-klbeuh8dp.json
 thumb_image_alt: event loop javascript
 image_alt: lorem-ipsum
 image_position: right
