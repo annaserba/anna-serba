@@ -16,7 +16,7 @@ template: post
 thumb_image: images/unique-eucalyptus.png
 excerpt: What is the JavaScript Event Loop?
 ---
-To understand how JavaScript runs in the browser, and to create web apps that run smoothly and quickly, it is important to understand the event loop.
+
 
 JavaScript as a programming language is single threaded, asynchronous, and non-blocking.
 
@@ -39,3 +39,6 @@ Open your console and type window then press enter. You'll see most everything
 ### Javascript is a non-blocking language
 
 Non-blocking simply means that one function will not block another from being processed, and this is because JS can be asynchronous.
+
+
+
