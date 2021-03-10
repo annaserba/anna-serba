@@ -36,7 +36,6 @@ Well, we can thank the Javascript engine (V8, Spidermonkey, JavaScriptCore, etc.
 
 Open your console and type window then press enter. You'll see most everything the Web API has to offer. This includes things like ajax calls, event listeners, the fetch API, and setTimeout. Javascript uses low level programming languages like C++ to perform these behind the scenes.
 
+### Javascript is a non-blocking language
 
-
-
-
+Non-blocking simply means that one function will not block another from being processed, and this is because JS can be asynchronous.
