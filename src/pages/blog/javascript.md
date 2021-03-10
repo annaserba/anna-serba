@@ -25,6 +25,7 @@ This means it has one call stack and one memory heap. As expected, it executes c
 
 A good example of this happening is the window alert function. alert("Hello World")
 
+
 You can't interact with the webpage at all until you hit OK and dismiss the alert. You're stuck.
 
 ### Javascript is a asynchronous language
