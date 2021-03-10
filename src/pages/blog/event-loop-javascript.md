@@ -3,7 +3,6 @@ title: Event loop
 date: '2021-03-10'
 categories: []
 tags: []
-excerpt: What is the JavaScript Event Loop?
 thumb_image_alt: event loop javascript
 image_alt: lorem-ipsum
 image_position: right
