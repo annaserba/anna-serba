@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  JavaScript as a programming language is single threaded, asynchronous, and
+  non-blocking
 subtitle: lorem-ipsum
 date: '2021-03-10'
 categories: []
