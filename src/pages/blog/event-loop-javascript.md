@@ -28,6 +28,8 @@ A good example of this happening is the window alert function. alert("Hello Wor
 
 You can't interact with the webpage at all until you hit OK and dismiss the alert. You're stuck.
 
+### Javascript is a asynchronous language
+
 So how do we get asynchronous code with Javascript then?
 
 Well, we can thank the Javascript engine (V8, Spidermonkey, JavaScriptCore, etc...) for that, which has Web API that handle these tasks in the background. The call stack recognizes functions of the Web API and hands them off to be handled by the browser. Once those tasks are finished by the browser, they return and are pushed onto the stack as a callback.
