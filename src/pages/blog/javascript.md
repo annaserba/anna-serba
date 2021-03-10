@@ -16,6 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: images/best-broccoli.png
 ---
 ### Javascript is a single threaded language
 
