@@ -4,8 +4,7 @@ title: >-
   non-blocking
 date: '2021-03-10'
 categories: []
-tags:
-  - src/data/tags/tag-qnsyp0h82.json
+tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
