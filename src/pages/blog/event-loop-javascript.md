@@ -15,7 +15,6 @@ seo:
 template: post
 thumb_image: images/unique-eucalyptus.png
 excerpt: What is the JavaScript Event Loop?
-subtitle: What is the JavaScript Event Loop?
 ---
 JavaScript as a programming language is single threaded, asynchronous, and non-blocking.
 
