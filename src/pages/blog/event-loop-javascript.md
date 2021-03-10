@@ -15,7 +15,6 @@ seo:
   type: stackbit_page_meta
 template: post
 subtitle: What is the JavaScript Event Loop?
-thumb_image: images/Event-loop.png
 image: images/Event-loop.png
 ---
 To understand how JavaScript runs in the browser, and to create web apps that run smoothly and quickly, it is important to understand the event loop.
