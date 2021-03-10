@@ -1,6 +1,5 @@
 ---
 title: Event loop
-subtitle: lorem-ipsum
 date: '2021-03-10'
 categories: []
 tags: []
