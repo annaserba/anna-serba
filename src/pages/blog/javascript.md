@@ -16,6 +16,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: images/terrific-parsley.png
 ---
 ### Javascript is a single threaded language
 
