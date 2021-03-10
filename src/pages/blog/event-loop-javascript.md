@@ -25,3 +25,8 @@ JavaScript as a programming language is single threaded, asynchronous, and non-b
 There are three parts to the JavaScript event loop: (1) the stack, (2) the background threads, which could be Web APIs, and (3) the callback queue.
 
 ![](/images/unique-eucalyptus.png)
+
+Some basics to remember in order to understand how the event loop works are how a stack and queue work. A stack, like a stack of pancakes, follow the order of LIFO: last in, first out. When you pile on the pancakes, the first one you can eat has to be the pancake on the top of the stack, the last one that was put on the stack. A queue follows another order, FIFO: first in, first out. Like a line at a movie theater, the first person on line is the first person to get a ticket.
+
+
+The call stack is where functions that have been called are placed until they complete and return something. If you are familiar with recursion, you know how the call stack works. If a function is a callback in a setTimeout, the setTimeout starts a timer thread in the browser, a separate thread from the JS V8 engine runtime thread. Even if the timer is set to zero, setTimeout timer will start a thread with a timer in the browser. The timer will run and once it is finished it gets placed on the callback queue. Once the call stack is empty, the function in the setTimeout gets placed on the call stack.
