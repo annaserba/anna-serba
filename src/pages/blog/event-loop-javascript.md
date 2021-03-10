@@ -2,7 +2,8 @@
 title: Event loop
 date: '2021-03-10'
 categories: []
-tags: []
+tags:
+  - src/data/tags/tag-su3sve3lk.json
 thumb_image_alt: event loop javascript
 image_alt: lorem-ipsum
 image_position: right
